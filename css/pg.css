@@ -32,7 +32,6 @@
     display: flex;
     width: 100%;
     align-items: top;
-    gap: 900px;
 }
 
 .imagem img{
@@ -55,8 +54,14 @@
     font-family: "Funnel Sans", sans-serif;
 }
 
+#destaques{
+    margin-top: 80px;
+}
+
 .desq1{
     display: flex;
     width: 25%;
     flex-direction:column;
+    align-items: center;
+    text-align: center;
 }
