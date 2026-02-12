@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins&family=Space+Grotesk:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Funnel+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
 *{
     margin: 0px;
     padding: 0px;
@@ -31,8 +34,9 @@
 }
 
 .texto h2{
-    font-size: 80px;
+    font-size: 90px;
     color: #991659;
+    font-family: "Pacifico", cursive;
 }
 
 .texto{
@@ -40,4 +44,6 @@
     text-align: justify;
     padding-right:100px ;
     font-size: 40px;
+    color: #766159;
+    font-family: "Funnel Sans", sans-serif;
 }
