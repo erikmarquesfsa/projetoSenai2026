@@ -21,4 +21,17 @@
 .container{
     display: flex;
     width: 100%;
+    align-items: center;
+    gap: 5px;
+}
+
+.imagem img{
+    width: 1300px;
+    height: 800px;
+}
+
+.texto{
+    line-height: 2;
+    text-align: justify;
+    padding-right:100px ;
 }
