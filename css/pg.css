@@ -28,6 +28,13 @@
     gap: 5px;
 }
 
+.container2{
+    display: flex;
+    width: 100%;
+    align-items: top;
+    gap: 900px;
+}
+
 .imagem img{
     width: 1300px;
     height: 1000px;
@@ -46,4 +53,10 @@
     font-size: 40px;
     color: #766159;
     font-family: "Funnel Sans", sans-serif;
+}
+
+.desq1{
+    display: flex;
+    width: 25%;
+    flex-direction:column;
 }
