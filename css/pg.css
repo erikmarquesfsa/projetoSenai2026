@@ -21,17 +21,23 @@
 .container{
     display: flex;
     width: 100%;
-    align-items: center;
+    align-items: top;
     gap: 5px;
 }
 
 .imagem img{
     width: 1300px;
-    height: 800px;
+    height: 1000px;
+}
+
+.texto h2{
+    font-size: 80px;
+    color: #991659;
 }
 
 .texto{
     line-height: 2;
     text-align: justify;
     padding-right:100px ;
+    font-size: 40px;
 }
