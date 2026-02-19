@@ -77,3 +77,23 @@
     width: 100%;
     align-items: top;
 }
+
+/*Section nome*/
+
+#nome{
+    margin-top: 100px;
+    background-color: #fef3e2;
+}
+
+.texto_bolo{
+    line-height: 2;
+    text-align: justify;
+    font-size: 35px;
+    color: #766159;
+    padding: 30px;
+    margin-left: 200px;
+    font-family: "Funnel Sans", sans-serif;
+
+}
+
+
