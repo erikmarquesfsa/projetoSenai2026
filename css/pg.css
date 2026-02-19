@@ -167,9 +167,19 @@
     transition: 0.3s;
 }
 
+.botao-flutuante i{
+    font-size: 60px;
+    color: white;
+    background-color: green;
+    border-radius: 90px;
+    border: 0px;
+}
+
 .botao-flutuante:hover{
     transform: scale(1.05);
 }
+
+.botao-flutuante
 
 
 
