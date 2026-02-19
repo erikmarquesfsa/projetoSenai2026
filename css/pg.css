@@ -93,7 +93,20 @@
     padding: 30px;
     margin-left: 200px;
     font-family: "Funnel Sans", sans-serif;
+}
 
+#bolo{
+    border-radius: 100px;
+    width: 600px;
+    height: 800px;
+    padding: 30px;
+}
+.container_nome{
+    display: flex;
+    width: 90%;
+    align-items: top;
+    gap: 5px;
+    margin: 0 auto;
 }
 
 
