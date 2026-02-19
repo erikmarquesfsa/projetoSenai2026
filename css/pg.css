@@ -124,4 +124,28 @@
     color: #fcd081;
 }
 
+/*PROMOÇÕES*/
+
+.bolo_promo{
+    width: 50px;
+}
+
+.promo1{
+    display: flex;
+    width: 100%;
+    align-items:top;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 80px;
+}
+
+.promocoes{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 100px;
+    padding: 50px;
+}
+
+
+
 
